@@ -243,6 +243,7 @@ return [
             'text'        => 'Meus Usuários',
             'url'         => 'painel/users',
             'icon'        => 'far fa-fw fa-user',
+            'can'         => 'edit-users'
 
         ],
         ['header' => 'account_settings'],
